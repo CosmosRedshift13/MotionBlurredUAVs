@@ -1,0 +1,26 @@
+<annotation>
+	<folder>new32_train_new_sea</folder>
+	<filename>15.jpg</filename>
+	<path>D:\DATASET\AntiUAV\OK\10\new32_train_new_sea\15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uav</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>235</ymin>
+			<xmax>417</xmax>
+			<ymax>243</ymax>
+		</bndbox>
+	</object>
+</annotation>

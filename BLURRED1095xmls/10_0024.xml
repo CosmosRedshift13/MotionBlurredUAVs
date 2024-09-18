@@ -1,0 +1,26 @@
+<annotation>
+	<folder>20190925_143900_1_4</folder>
+	<filename>24.jpg</filename>
+	<path>D:\DATASET\AntiUAV\OK\11\20190925_143900_1_4\24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>512</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>uav</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>162</xmin>
+			<ymin>265</ymin>
+			<xmax>201</xmax>
+			<ymax>285</ymax>
+		</bndbox>
+	</object>
+</annotation>
